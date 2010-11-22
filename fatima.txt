@@ -1,1 +1,2 @@
 Testing git usage
+Amended username setting - previously unknown/undefined, now fbeltagui
